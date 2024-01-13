@@ -1,0 +1,18 @@
+<svg height="100" width="100">
+ 
+<title>Snr. Frontend Engineer</title>
+<alt>Okpala Oluchukwu </alt>
+<g>
+  <rect x="0" y="0" width="128" height="32" />
+  <rect x="0" y="0" width="32" height="224" />
+  <rect x="0" y="192" width="128" height="32" />
+  <rect x="160" y="0" width="128" height="32" />
+  <rect x="160" y="96" width="128" height="32" />
+  <rect x="160" y="192" width="128" height="32" />
+  <rect x="320" y="0" width="128" height="32" />
+  <rect x="320" y="96" width="128" height="32" />
+  <rect x="416" y="0" width="32" height="128" />
+  <polygon points="367,126 399,126 416,160 384,160" />
+  <polygon points="400,192 432,192 448,224 416,224" />
+</g>
+</svg>

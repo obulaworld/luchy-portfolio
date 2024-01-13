@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1e5c4d69.css",
+    "main.js": "/static/js/main.ee9a14f4.js",
+    "static/media/me.jpg": "/static/media/me.33f67741814650a80b56.jpg",
+    "static/media/mapmark.svg": "/static/media/mapmark.75693ed773a2e3a71a95b5ed1e495e75.svg",
+    "static/media/epsoylent.png": "/static/media/epsoylent.f3f5cf7cd9eef67baa9c.png",
+    "static/media/salon.png": "/static/media/salon.af46db8527dd30ac5903.png",
+    "static/media/salonowner.png": "/static/media/salonowner.c39f352aa88abadd1565.png",
+    "static/media/epdisplate.png": "/static/media/epdisplate.59809bb499d7554ac97b.png",
+    "static/media/epwalmart.png": "/static/media/epwalmart.33a58d2b3aef461099a5.png",
+    "static/media/vsportfolio.png": "/static/media/vsportfolio.f8381d0f7e01d7b2bfae.png",
+    "static/media/eplinkedin.png": "/static/media/eplinkedin.b5690b88c0a939ad7747.png",
+    "static/media/langsynth.png": "/static/media/langsynth.5acea4a7be8b16486d4a.png",
+    "static/media/calloutsevolved.png": "/static/media/calloutsevolved.dd89dc28f80f648bac7e.png",
+    "static/media/gulp.svg": "/static/media/gulp.b32c381187ef881115c1fbad29a32e80.svg",
+    "static/media/post.svg": "/static/media/post.ec938a248ddf68eab91f636a342dc4ef.svg",
+    "static/media/react.svg": "/static/media/react.6dc4afc7ebb14f4e1c6ef4f834856fda.svg",
+    "static/media/node.svg": "/static/media/node.fe9704abacb428730868921148015bbc.svg",
+    "static/media/youtube.svg": "/static/media/youtube.6544010c924c689624a4434e5662f8cf.svg",
+    "static/media/ts.svg": "/static/media/ts.0081d4ebbefaefb5dfa8f9612c1b13d2.svg",
+    "static/media/js.svg": "/static/media/js.2291b9f856b46d7e17cc6d7ecac8838a.svg",
+    "static/media/scroll.svg": "/static/media/scroll.761295044f9f4f90e3931ae4fadfce78.svg",
+    "static/media/github.svg": "/static/media/github.c5ac6b5f2a95da28e2952c0538d9202c.svg",
+    "static/media/codepen.svg": "/static/media/codepen.f87f3a79a000c24aee02d076a54523cd.svg",
+    "static/media/boot.svg": "/static/media/boot.875bd66256bb262986b8376a1540a00a.svg",
+    "index.html": "/index.html",
+    "static/media/logo.svg": "/static/media/logo.3f2f4c4c91b933733414b75f753ca026.svg",
+    "static/media/git.svg": "/static/media/git.6e09c70ba2ca0b8d02f7e318071bd61d.svg",
+    "static/media/codesandbox.svg": "/static/media/codesandbox.d9e335d92f03e85fa6dfadce1394129b.svg",
+    "static/media/fire.svg": "/static/media/fire.ab0c5cdefbe694e4877d9054af8dfab3.svg",
+    "static/media/html.svg": "/static/media/html.991ef15130155c013083e420b96435ca.svg",
+    "static/media/css.svg": "/static/media/css.0207f2a44ea690da6ed6f330b35ebd5c.svg",
+    "static/media/figma.svg": "/static/media/figma.e30b0cd15e89f4877a3fa08cba05880e.svg",
+    "static/media/stackblitz.svg": "/static/media/stackblitz.65ef4b123a02a15fa9034405434a12d1.svg",
+    "main.1e5c4d69.css.map": "/static/css/main.1e5c4d69.css.map",
+    "main.ee9a14f4.js.map": "/static/js/main.ee9a14f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e5c4d69.css",
+    "static/js/main.ee9a14f4.js"
+  ]
+}
