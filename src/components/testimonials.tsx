@@ -34,20 +34,33 @@ const responsive = {
   },
 };
 
-const images = [
-  "https://images.unsplash.com/photo-1549989476-69a92fa57c36?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-  "https://images.unsplash.com/photo-1549396535-c11d5c55b9df?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
-  "https://images.unsplash.com/photo-1550133730-695473e544be?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-  "https://images.unsplash.com/photo-1550167164-1b67c2be3973?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-  "https://images.unsplash.com/photo-1550338861-b7cfeaf8ffd8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-  "https://images.unsplash.com/photo-1550223640-23097fc71cb2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-  "https://images.unsplash.com/photo-1550353175-a3611868086b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-  "https://images.unsplash.com/photo-1550330039-a54e15ed9d33?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-  "https://images.unsplash.com/photo-1549737328-8b9f3252b927?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-  "https://images.unsplash.com/photo-1549833284-6a7df91c1f65?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-  "https://images.unsplash.com/photo-1549985908-597a09ef0a7c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-  "https://images.unsplash.com/photo-1550064824-8f993041ffd3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
-];
+const testimonials = [
+  {
+    text: 'Excellence is what comes to mind when I think about Chioma. I’ve had the pleasure of knowing Chioma for over 9 years, during which we studied together and worked together. Above all, I was impressed with Chioma’s ability to deliver quality work. And, of course, her great communication skills and interpersonal relationship. Chioma would be a true asset for any software engineering positions requiring JavaScript and its without hesitation that I recommend Chioma.', 
+    image: 'https://images.unsplash.com/photo-1549989476-69a92fa57c36?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60',
+    name: 'Kenneth Onah',
+    job: 'Software Engineer'
+  }, {
+    text: 'Chioma was a fantastic person to work with. She had a positive attitude and a desire to produce quality work that served her well and she brings a lot to the table. A driven, ambitious individual with an infectious enthusiasm for any project. It is my pleasure to recommend her personally and professionally.', 
+    image: 'https://images.unsplash.com/photo-1550064824-8f993041ffd3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60',
+    name: 'Rilwan Lawal',
+    job: 'Software Engineer'
+  }, {
+    text: 'Oluchi has a great research skills and is an articulate communicator, thinks logically, develops creative solutions to complex problems and works well in leading a team. She is detail oriented and passionate about coding. Her programs are always top quality with few bugs. She understands the value of testing and takes his time to test and retest before releasing a software program to a client. You will be glad to have her come on-board', 
+    image: 'https://images.unsplash.com/photo-1549985908-597a09ef0a7c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60',
+    name: 'Mark Benjamin',
+    job: 'Marketing Manager'
+  }, {
+    text: 'Excellence is what comes to mind when I think about Chioma. I’ve had the pleasure of knowing Chioma for over 9 years, during which we studied together and worked together. Above all, I was impressed with Chioma’s ability to deliver quality work. And, of course, her great communication skills and interpersonal relationship. Chioma would be a true asset for any software engineering positions requiring JavaScript and its without hesitation that I recommend Chioma.', 
+    image: 'https://images.unsplash.com/photo-1549833284-6a7df91c1f65?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60',
+    name: 'Nina Fort',
+    job: 'Engineer'
+  }, {
+    text: 'Excellence is what comes to mind when I think about Chioma. I’ve had the pleasure of knowing Chioma for over 9 years, during which we studied together and worked together. Above all, I was impressed with Chioma’s ability to deliver quality work. And, of course, her great communication skills and interpersonal relationship. Chioma would be a true asset for any software engineering positions requiring JavaScript and its without hesitation that I recommend Chioma.', 
+    image: 'https://images.unsplash.com/photo-1550353175-a3611868086b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60',
+    name: 'Nina Fort',
+    job: 'Product Manager'
+  }];
 
 // Because this is an inframe, so the SSR mode doesn't not do well here.
 // It will work on real devices.
@@ -70,30 +83,20 @@ export const TestimonialSlider: FC<{ deviceType?: string }> = ({
           responsive={responsive}
           infinite={true}
         >
-          {images.slice(0, 5).map((image) => {
+          {testimonials.map((test) => {
             return (
               <Testimonial>
                 <ClientText>
-                  Lorem Ipsum is simply dummy text of the printing and
-                  typesetting industry. Lorem Ipsum has been the industry's
-                  standard dummy text ever since the 1500s, when an unknown
-                  printer took a galley of type and scrambled it to make a type
-                  specimen book. It has survived not only five centuries, but
-                  also the leap into electronic typesetting, remaining
-                  essentially unchanged. It was popularised in the 1960s with
-                  the release of Letraset sheets containing Lorem Ipsum
-                  passages, and more recently with desktop publishing software
-                  like Aldus PageMaker including versions of Lorem Ipsum.
+                  {test.text}
                 </ClientText>
                 <ClientContainer>
                   <Client>
-                    <ClientImage />
+                    <ClientImage src={test.image}/>
                     <ClientDetailsContainer>
-                      <ClientName>Nina Fort</ClientName>
-                      <ClientOccupation>Marketing Manager</ClientOccupation>
+                      <ClientName>{test.name}</ClientName>
+                      <ClientOccupation>{test.job}</ClientOccupation>
                     </ClientDetailsContainer>
                   </Client>
-                  <div>**********</div>
                 </ClientContainer>
               </Testimonial>
             );

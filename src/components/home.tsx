@@ -7,7 +7,7 @@ import {
   NameBanner,
 } from "./styles/home";
 import { SectionTitle } from "./shared";
-import MeGrayIcon from "../images/me-gray.png";
+import MeGrayIcon from "../images/me.png";
 
 export const Home: FC = () => {
   return (

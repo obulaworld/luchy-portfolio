@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import "react-multi-carousel/lib/styles.css";
 import { SectionTitle } from "./shared";
 import {
@@ -13,7 +13,6 @@ import {
 import { ActionButton } from "./styles/shared";
 
 export const Contact = () => {
-  const [activeFaq, setAtiveFaq] = useState(1);
   return (
     <ContactPageWrapper>
       <SectionTitle id="contact" baseText="CONTACT ME" title="Send me email" />
@@ -28,7 +27,7 @@ export const Contact = () => {
         <ContactDetailContainer>
           <ContactText>+92374748374834</ContactText>
           <ContactDetailDivider />
-          <ContactText>hello@gmail.com</ContactText>
+          <ContactText>oluchukwuokpala1759@gmail.com</ContactText>
         </ContactDetailContainer>
       </ContactContainer>
     </ContactPageWrapper>

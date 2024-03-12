@@ -1,4 +1,4 @@
-import styled, { css } from "styled-components";
+import styled from "styled-components";
 
 export const MeBanner = styled.img`
   height: 500px;
@@ -13,10 +13,11 @@ export const NameBanner = styled.h2`
 export const AboutMe = styled.h2`
   max-width: 950px;
   text-align: center;
-  font-size: 20px;
+  font-size: 18px;
+  line-height: 1.5;   
   color: #88898c;
   margin-top: 32px;
-  font-family: 'Mono Sans'
+  font-family: 'Roboto', sans-serif;
 `;
 
 export const AboutPageWrapper = styled.div`

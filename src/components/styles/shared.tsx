@@ -46,7 +46,6 @@ export const SectionTitleWrapper = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-bottom: 32px;
 `;
 
 export const SummarySection = styled.div`
@@ -93,7 +92,9 @@ export const StatisticsDivider = styled.hr`
 
 export const Statisticscontainer = styled.div`
   display: flex;
+  width: 25%;
   flex-direction: column;
+  font-family: 'Roboto', sans-serif;
   align-items: center;
   text-align: center;
 `;

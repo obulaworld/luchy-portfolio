@@ -1,4 +1,4 @@
-import styled, { css } from "styled-components";
+import styled from "styled-components";
 
 export const TestimonialPageWrapper = styled.div`
   width: 100%;
@@ -22,11 +22,12 @@ export const TestimonialImage = styled.img`
 `;
 
 export const Testimonial = styled.div`
-  width: 369px;
-  height: 274px;
+  width: 350px;
   border-radius: 8px;
-  background-color: #413446;
+  background-color: #413456;
   display: flex;
+  justify-content: space-between;
+  height: 100%;
   flex-direction: column;
   padding: 36px 26px;
 `;
@@ -35,7 +36,7 @@ export const ClientContainer = styled.div`
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-top: 16px;
+  margin-bottom: 42px;
   color: #8a8494;
 `;
 
@@ -59,7 +60,7 @@ export const ClientOccupation = styled.p`
   margin-top: 0;
 `;
 
-export const ClientImage = styled.div`
+export const ClientImage = styled.img`
   width: 50px;
   height: 50px;
   border-radius: 50%;

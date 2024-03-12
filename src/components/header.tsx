@@ -1,5 +1,4 @@
 import React, { FC, useState } from "react";
-import HeaderIcon from "../images/my-logo.jpeg"
 import {
   HeaderNav,
   NavLink,
@@ -17,7 +16,7 @@ export const Header: FC = () => {
 
   return (
     <NavWrapper>
-      <HeaderImage src={HeaderIcon} alt="" />
+      <HeaderImage/>
       <HeaderNav>
         <HeaderItem
           isActive={activeLink === "home"}

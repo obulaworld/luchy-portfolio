@@ -1,10 +1,12 @@
-import styled, { css } from "styled-components";
+import styled from "styled-components";
 
 export const MeBanner = styled.img`
-  height: 500px;
-  margin: auto;
+  height: 350px;
+  width: 500px;
+  object-fit: cover;
   z-index: 100;
-  margin-top: 55px;
+  margin-top: 100px;
+  object-position: center top;
 `;
 
 export const JobTitle = styled.h2`
@@ -19,8 +21,10 @@ export const NameIntro = styled.p`
 `;
 
 export const NameBanner = styled.h2`
-  font-size: 80px;
+  font-size: 90px;
   color: #fff;
+  line-height: 0.5;
+  font-family: 'Angkor', cursive;
   position: absolute;
 `;
 

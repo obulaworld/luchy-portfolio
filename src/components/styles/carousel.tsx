@@ -1,4 +1,4 @@
-import styled, { css } from "styled-components";
+import styled from "styled-components";
 
 export const CarouselPageWrapper = styled.div`
   width: 100%;
@@ -16,7 +16,9 @@ export const CarouselContainer = styled.div`
 `;
 
 export const CarouselImage = styled.img`
-  width: 423px;
-  height: 375px;
+  width: 400px;
+  height: 400px;
+  margin: 0 30px;
+  object-fit: cover;
   border-radius: 8px;
 `;
